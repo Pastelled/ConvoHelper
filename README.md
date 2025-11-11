@@ -1,2 +1,2 @@
 # ConvoHelper
-A tool that records and analyzes your conversations (tone, emotion, pace, delivery style) to help you communicate better in everyday conversations.
+A tool that records and analyzes your everyday conversations, checking for tone, emotion, pace, delivery style, etc to help you improve expression of your thoughts and emotions.
